@@ -11,7 +11,7 @@ class Translating_RNA:
 
     def __init__(self):
 
-        file = open("RNA.txt", "r")
+        file = open("sample.txt", "r")
         self.RNA = file.read()
 
         for y in range(0, len(self.RNA), 3):
