@@ -6,7 +6,7 @@ class Reverse_Complement():
 
     def __init__(self):
 
-        file = open("Reverse_Complement.txt", "r")
+        file = open("sample.txt", "r")
 
         for x in file:
 
