@@ -17,18 +17,18 @@ class MF_law:
         second_prob = m/self.population # you pick Hh
         third_prob = n/self.population # you pick hh
 
-        # homo_dom
+        # homozygous dominant
         self.dom_count += (first_prob * ((k-1)/(wout_replace))) # HH mate w/ HH
         self.dom_count += (first_prob * (m/wout_replace)) # HH mate w/ Hh
         self.dom_count += (first_prob * (n/wout_replace)) # HH mate w/ hh
 
-        # heter
+        # heterozygous
         self.dom_count += (second_prob * (k/wout_replace)) # Hh mate w/ HH
         self.dom_count += (second_prob * ((m-1)/(wout_replace)) * (3/4)) # Hh mate w/ Hh
         print((second_prob * ((m-1)/(wout_replace)) * (3/4)))
         self.dom_count += (second_prob * (n/wout_replace) * (1/2)) # Hh mate w/ hh
 
-        # homo_rec
+        # homozygous recessive
         self.dom_count += (third_prob * (k/wout_replace)) # hh mate w/ HH
         self.dom_count += (third_prob * (m/wout_replace) * (1/2)) # hh mate w/ Hh
         self.dom_count += (third_prob * ((n-1)/(wout_replace)) * 0) # hh mate w/ hh
@@ -36,4 +36,4 @@ class MF_law:
         return self.dom_count
 
 obj = MF_law()
-print(obj.calc_prob(100, 6, 2))
+print(obj.calc_prob(k, m, n))
