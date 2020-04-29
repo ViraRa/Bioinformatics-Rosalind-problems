@@ -5,7 +5,7 @@ class Transcribe:
 
     def __init__(self):
 
-        file = open("Transcribe.txt", "r")
+        file = open("sample.txt", "r")
 
         for x in file:
 
