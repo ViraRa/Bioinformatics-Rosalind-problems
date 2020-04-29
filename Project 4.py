@@ -18,4 +18,4 @@ class Wabbits:
         return self.memo
     
 obj = Wabbits()
-print(obj.rabbit_recurrence(32,5))
+print(obj.rabbit_recurrence(n,k))
