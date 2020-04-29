@@ -1,4 +1,4 @@
-# Rosalind Problems (In Progress)
+# Bioinformatics Stronghold Problems (In Progress)
 ### Note: All Projects are written in Python 3
 #### These problems may not be in order as they appear on Rosalind. 
 
