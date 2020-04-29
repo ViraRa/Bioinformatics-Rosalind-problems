@@ -2,9 +2,9 @@
 ### Note: All Projects are written in Python 3
 #### These problems may not be in order as they appear on Rosalind. 
 
-**1st Project** - Counting nucleotides (A, C, G, T) in a given DNA sequence. Must provide a sample.txt to read the nucleotides. 
+**1st Project** - Count nucleotides (A, C, G, T) in a given DNA sequence. Must provide a sample.txt to read the nucleotides. 
 
-**2nd Project** - Transcribing a DNA sequence into a RNA sequence. Must provide a sample.txt to read the DNA sequence. 
+**2nd Project** - Transcribe a DNA sequence into a RNA sequence. Must provide a sample.txt to read the DNA sequence. 
 
 **3rd Project** - Find the reverse complement of a DNA sequence. This reverse complement is the non-coding strading while the DNA sequence is the coding strand. Must provide a sample.txt to read the DNA sequence.
 
