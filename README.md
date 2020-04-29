@@ -12,4 +12,4 @@
 
 **5th Project** - Find number of point mutations given two DNA sequences where the second sequnce is right below the first one. Must provide a sample.txt where the first DNA sequence is on the first line and second one is right beneath it. 
 
-**6th Project** - Calculate the dominant allele ratio give a population of k, m ,n. k represents the homozgyous dominant organisms. m represent the heterzygous organism, and n represents the homozgyous recessive organisms. The population is given by k+m+n. The problem outputs a probability (decimal format) without replacement. 
+**6th Project** - Calculate the dominant allele ratio give a population of k, m ,n. k represents the homozygous dominant organisms. m represent the heterozygous organism, and n represents the homozygous recessive organisms. The population is given by k+m+n. The problem outputs a probability (decimal format) without replacement. 
