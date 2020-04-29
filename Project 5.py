@@ -6,7 +6,7 @@ class counting_PM:
 
     def __init__(self):
 
-        file = open("PM.txt", "r")
+        file = open("sample.txt", "r")
         seq = file.read()
         string_0, string_1 = seq.split("\n", 2)
         word = zip(string_0, string_1)
