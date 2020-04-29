@@ -1,1 +1,1 @@
-# Rosalind-Problems-Misc.-
+# Rosalind Problems + Misc
