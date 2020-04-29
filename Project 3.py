@@ -6,7 +6,7 @@ class Reverse_Complement():
 
     def __init__(self):
 
-        file = open("sample.txt", "r")
+        file = open("Reverse_Complement.txt", "r")
 
         for x in file:
 
@@ -29,3 +29,6 @@ class Reverse_Complement():
                 self.comp_strand += "C"
 
         return self.comp_strand
+
+obj = Reverse_Complement()
+print(obj.comp_seq())
