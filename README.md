@@ -1,5 +1,6 @@
-# Rosalind Problems (In Progres and these problems may not be in order)
-### Note that all Projects are written in Python 3
+# Rosalind Problems (In Progress)
+### Note: All Projects are written in Python 3
+#### These problems may not be in order as they appear on Rosalind. 
 
 **1st Project** - Counting nucleotides (A, C, G, T) in a given DNA sequence. Must provide a sample.txt to read the nucleotides. 
 
