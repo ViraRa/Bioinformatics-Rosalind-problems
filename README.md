@@ -16,4 +16,8 @@
 
 **7th Project** - Translate a given RNA sequence into a peptide (peptide consists of one-letter amino acids). Must provide a sample.txt to read the RNA sequence. 
 
-**8th Project** - Find the motif in a DNA sequence. Here, the motif acts as a pattern, and I am trying to find the locations at which the motif is a substring of the DNA sequence. I am using Knuth Morris Pratt algorithm since its performance is O(N). 
+**8th Project** - Find the motif in a DNA sequence. Here, the motif acts as a pattern, and I am trying to find the locations at which the motif is a substring of the DNA sequence. I am using Knuth Morris Pratt algorithm since its performance is O(N). Must provide a DNA sequence and a motif beneath it. 
+(Example taken from Rosalind as an illustration of the sample.txt should look like)
+For example:
+GATATATGCATATACTT
+ATAT
