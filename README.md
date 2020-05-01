@@ -24,3 +24,5 @@ For example:
 
 GATATATGCATATACTT <br />
 ATAT
+
+**9th Project** - Given at most 10 DNA strings in FASTA format. Return the label of the sequence, and the highgest GC content percentage (without the %). Must provide a sample.txt that at has at most 10 DNA strings in FASTA format.
