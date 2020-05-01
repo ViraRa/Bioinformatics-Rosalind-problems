@@ -15,3 +15,5 @@
 **6th Project** - Calculate the dominant allele ratio given a population of k, m ,n. k represents the homozygous dominant organisms. m represent the heterozygous organisms, and n represents the homozygous recessive organisms. The population is given by k+m+n. The problem outputs a probability (decimal format) without replacement. 
 
 **7th Project** - Translate a given RNA sequence into a peptide (peptide consists of one-letter amino acids). Must provide a sample.txt to read the RNA sequence. 
+
+**8th Project** - Find the motif in a DNA sequence. Here, the motif acts as a pattern, and I am trying to find the locations at which the motif is a substring of the DNA sequence. I am using Knuth Morris Pratt algorithm since its performance is O(N). 
