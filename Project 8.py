@@ -1,5 +1,6 @@
 #Knuth Morris Pratt (KMP) patten algo - O(N)
 # Amazing algo!
+import numpy as np
 class motif_in_DNA:
 
     s = "" # text
