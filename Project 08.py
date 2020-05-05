@@ -2,7 +2,6 @@
 # Amazing algo!
 import numpy as np
 class motif_in_DNA:
-
     s = "" # text
     t = "" # pattern
 
