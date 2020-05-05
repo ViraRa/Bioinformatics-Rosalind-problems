@@ -1,5 +1,4 @@
 class Reverse_Complement():
-
     string = ""
     reverse_string = ""
     comp_strand = ""
