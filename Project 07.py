@@ -1,5 +1,4 @@
 import itertools
-
 class Translating_RNA:
 
     protein = ""
