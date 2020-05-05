@@ -1,6 +1,5 @@
 import numpy as np
 class C:
-
     def __init__(self):
 
         matrix = np.array([[]])
