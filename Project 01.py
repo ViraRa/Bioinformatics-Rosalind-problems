@@ -1,7 +1,5 @@
 class counting_DNA_nucleotide:
-
     string = ""
-
     def __init__(self):
 
         try:
