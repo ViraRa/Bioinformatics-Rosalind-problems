@@ -1,5 +1,4 @@
 class counting_PM:
-
     list_0 = []
     list_1 = []
     count = 0
