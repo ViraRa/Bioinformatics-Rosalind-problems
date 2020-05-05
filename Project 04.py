@@ -1,5 +1,4 @@
 class Wabbits:
-
     a_sub_0 = 0
     a_sub_1 = 1
     memo = []
