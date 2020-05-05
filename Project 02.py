@@ -1,5 +1,4 @@
 class Transcribe:
-
     RNA_string = ""
     DNA_string = ""
 
