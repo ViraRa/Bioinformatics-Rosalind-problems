@@ -1,5 +1,4 @@
 class Compute_GC:
-
     def __init__(self):
 
         file = open("GC.txt", "r")
@@ -21,7 +20,7 @@ class Compute_GC:
             y = self.calc_GC(dictionary.get(x))
             answer[y] = x
 
-        
+     
         maximum = max(answer.keys())
         print(answer.get(maximum)) # label
         print(maximum) # max %GC
