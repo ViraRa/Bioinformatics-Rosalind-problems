@@ -1,4 +1,5 @@
 from collections import defaultdict
+import sys
 
 class Diagraph: # may contain cycles | if no cycles then it is called a DAG or directed acyclic graph
 
@@ -6,10 +7,15 @@ class Diagraph: # may contain cycles | if no cycles then it is called a DAG or d
 
         # reading the file and put the labels and seq in a list
 
+        if(k < 0 or not isinstance(k,int)):
+            print("\nk should be an integer and greater than zero.\n")
+            print("Please try again\n")
+            sys.exit(0)
+
         file_string = ""
         labels = []
         seq = []
-        with open("sample.txt", "r") as file:
+        with open("Graph.txt", "r") as file:
             file_string = file.read().split(">")
 
         del file_string[0] # always empty
