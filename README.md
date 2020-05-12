@@ -32,4 +32,6 @@ ATAT
 
 **11th Project** - This project is a modification of Project 4, and it solves the question: How many rabbits are left after n<sup>th</sup> month if they die after m<sup>th</sup> month? To be specific, a pair dies off every m<sup>th</sup> month. 
 
+**12th Project** - Implement a digraph using adjacency list representation where string s (a DNA sequence) is a node and string t (another DNA sequence) is another node. The edge connecting string s to string t and its length k is a suffix of s that matches a length k prefix of t as long as s≠t. There most likely be cycles in the graph, but directed loops are not allowed (for example s --> t but t cannot connect to s, this is a directed loop. The project is called Overlap Graphs on Rosalind site. My algorithm has polynomial complexity. Need to provide a text file in Fasta format (not a Fasta file, but a regular text file that follows Fasta format).
+
 
