@@ -9,7 +9,7 @@ class Diagraph: # may contain cycles | if no cycles then it is called a DAG or d
         file_string = ""
         labels = []
         seq = []
-        with open("Graph.txt", "r") as file:
+        with open("sample.txt", "r") as file:
             file_string = file.read().split(">")
 
         del file_string[0] # always empty
