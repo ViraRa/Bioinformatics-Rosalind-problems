@@ -3,6 +3,13 @@
 #### These problems may not be in order as they appear on Rosalind. 
 ##### The point of these Bioinformatic problems is to implement my own algorithm or implement an existing one. <br /> For that reason, I am not using the Biopython package
 
+HOW TO RUN PROJECTS:
+1. Open command prompt/terminal
+2. Change to the proper directory where the python file is stored using cd
+3. Run using python [Project Name].py <br>
+Note: The python command utilizes the current version of python on your machine.
+You can also specify the version when running the code such as python3 [Project Name].py
+
 **1st Project** - Count nucleotides (A, C, G, T) in a given DNA sequence. Must provide a sample.txt to read the nucleotides. 
 
 **2nd Project** - Transcribe a DNA sequence into a RNA sequence. Must provide a sample.txt to read the DNA sequence. 
