@@ -41,5 +41,7 @@ ATAT
 
 **12th Project** - Implement a digraph using adjacency list representation where string s (a DNA sequence) is a node and string t (another DNA sequence) is another node. The edge connecting string s to string t and its length k is a suffix of s that matches a length k prefix of t as long as s≠t. There most likely be cycles in the graph, but directed loops are not allowed (for example s --> t but t cannot connect to s, this is a directed loop. The project is called Overlap Graphs on Rosalind site. My algorithm has polynomial complexity. Need to provide a text file in Fasta format (not a Fasta file, but a regular text file that follows Fasta format).
 
-**13th Project** - This short project finds the expected number of offsprings displaying the dominant phenotype. The formula to calculate expected value X is E(X) = ![Equation](https://latex.codecogs.com/gif.latex%5Csum_%7Bk%20%3D%201%7D%5E%7Bn%7D%28k%20*%20P%28X%20%3Dk%29%29)
+**13th Project** - This short project finds the expected number of offsprings displaying the dominant phenotype. The formula to calculate expected value X is E(X) = 
+
+![Equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bk%20%3D%201%7D%5E%7Bn%7D%28k%20*%20P%28X%20%3Dk%29%29)
 
