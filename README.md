@@ -45,5 +45,5 @@ ATAT
 
 ![Equation1](https://latex.codecogs.com/gif.latex?E%28x%29%20%3D%20%5Csum_%7Bk%20%3D%201%7D%5E%7Bn%7D%28k%20*%20P%28X%20%3Dk%29%29)
 
-**14th Project** - The program corresponds to the problem "Finding a Shared Motif" on Rosalind. Given a FASTA format of less than 100 DNA strings at most 1kp each find the longest common substring (LCS) among them (not including the label). Answers are not unique, so I picked the first occurrence of LCS. The program has a high polynomal run-time - O(N<sup>7</sup>). 
+**14th Project** - The program corresponds to the problem "Finding a Shared Motif" on Rosalind. Given a FASTA format of less than 100 DNA strings at most 1kp each find the longest common substring (LCS) among them (not including the label). Answers are not unique, so I picked the first occurrence of LCS. The program has a high polynomal run-time - O(N<sup>7</sup>) assuming the two shortest DNA strings are size N. 
 
