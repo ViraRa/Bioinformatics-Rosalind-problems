@@ -37,3 +37,4 @@ class MF_law:
 
 obj = MF_law()
 print(obj.calc_prob(k, m, n))
+
