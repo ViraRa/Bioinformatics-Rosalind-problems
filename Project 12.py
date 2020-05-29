@@ -101,3 +101,4 @@ class Diagraph: # may contain cycles | if no cycles then it is called a DAG or d
 
 obj = Diagraph(3) 
 # k is always three, but to make my program more scalable I ask the user to input an k
+
