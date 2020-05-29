@@ -1,7 +1,7 @@
 # Bioinformatics Stronghold Problems [Rosalind problems] 
 ### Note: All Projects are written in Python 3
 #### These problems may not be in order as they appear on Rosalind. 
-##### The point of these Bioinformatic problems is to implement my own algorithm or implement an existing one. <br /> For that reason, I am not using the Biopython package
+##### The point of these Bioinformatic problems is to implement my own algorithm or implement an existing one. <br /> For that reason, I am not using the Biopython package.
 
 HOW TO RUN PROJECTS:
 1. Open command prompt/terminal
