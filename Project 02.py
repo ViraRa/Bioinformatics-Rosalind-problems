@@ -15,3 +15,4 @@ class Transcribe:
         print(self.DNA_string)
 
 obj = Transcribe()
+
