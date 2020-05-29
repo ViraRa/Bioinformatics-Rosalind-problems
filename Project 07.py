@@ -72,3 +72,4 @@ class Translating_RNA:
 
 obj = Translating_RNA()
 print(obj.translate())
+
