@@ -68,3 +68,4 @@ class motif_in_DNA:
 obj = motif_in_DNA()
 obj.KMP_search()
 
+
