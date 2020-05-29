@@ -18,3 +18,4 @@ class Wabbits:
     
 obj = Wabbits()
 print(obj.rabbit_recurrence(n,k))
+
