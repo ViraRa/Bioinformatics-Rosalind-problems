@@ -18,3 +18,4 @@ class counting_DNA_nucleotide:
         print(str(num_A) + " " + str(num_C) + " " + str(num_G) +  " " + str(num_T))
 
 obj = counting_DNA_nucleotide()
+
