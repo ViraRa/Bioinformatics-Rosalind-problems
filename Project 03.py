@@ -31,3 +31,4 @@ class Reverse_Complement():
 
 obj = Reverse_Complement()
 print(obj.comp_seq())
+
