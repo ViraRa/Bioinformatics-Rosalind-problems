@@ -47,3 +47,5 @@ ATAT
 
 **14th Project** - The program corresponds to the problem "Finding a Shared Motif" on Rosalind. Given a FASTA format of less than 100 DNA strings at most 1kp each find the longest common substring (LCS) among them (not including the label). Answers are not unique, so I picked the first occurrence of LCS. The program has a high polynomal run-time - O(N<sup>7</sup>) assuming the two shortest DNA strings are size N. Note: The program might hang for a bit. 
 
+**15th Project** - Given UniProt Protein Database access IDs return the access ID with the location of the N-glycosylation motif or N{P}[ST]{P}. This is a custom script. Runs in polynomial time.
+
