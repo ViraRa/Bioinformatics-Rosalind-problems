@@ -49,5 +49,5 @@ ATAT
 
 **15th Project** - Given UniProt Protein Database access IDs return the access ID with the location of the N-glycosylation motif or N{P}[ST]{P}. This is a custom script. Runs in polynomial time.
 
-**16th Project** - Given a protein return the total number of different RNA strings from which the protein could have been translated, modulo 1,000,000. (Including stop codons). If we don't modulo 1,000,000 in the end then the number will eventually be greater than the memory allotted for an int, which is 2<sup>31</sup> - 1 or 2,147,483,647.
+**16th Project** - Given a protein return the total number of different RNA strings from which the protein could have been translated, modulo 1,000,000 (including stop codons). If we don't modulo 1,000,000 in the end then the number will eventually be greater than the memory allotted for an int, which is 2<sup>31</sup> - 1 or 2,147,483,647.
 
