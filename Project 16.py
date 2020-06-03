@@ -83,3 +83,4 @@ class RT:
 obj = RT()
 obj.codon_table()
 print(obj.reverse_translate_count())
+
