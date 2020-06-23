@@ -29,3 +29,4 @@ obj = EGO(5)
 print(obj.permutation())
 obj.gene_order()
 
+
