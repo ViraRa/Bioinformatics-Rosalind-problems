@@ -65,3 +65,4 @@ M<br>
 MGMTPRLGLESLLE<br>
 MTPRLGLESLLE
 
+**18th Project** - Find the permutation of n and n-1: P(n, n-1). List out the permutation order. 
